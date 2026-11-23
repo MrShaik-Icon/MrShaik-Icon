@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Shaik%20Khawza&fontSize=60&fontColor=7dd3fc&fontAlignY=38&desc=ServiceNow%20Developer%20%7C%20Application%20%26%20Production%20Support&descSize=20&descColor=7dd3fc&descAlignY=60&animation=twinkling" width="100%" alt="Shaik Khawza header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shaik%20Khawza&fontSize=60&fontColor=0f172a&animation=twinkling" width="100%" alt="Shaik Khawza header banner" />
 
 <a href="https://github.com/MrShaik-Icon">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=ServiceNow+Developer+%7C+4+Years+of+Experience;ITSM%3A+Incident%2C+Change%2C+Problem+%26+Request;Catalog+Items%2C+Flow+Designer+%26+Integrations;Production+Support+%26+Control-M+Job+Management;Root+Cause+Analysis+for+long-term+fixes" alt="Typing SVG" />
